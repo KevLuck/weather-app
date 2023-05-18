@@ -10,4 +10,4 @@
 
 # Screenshot
 
-![screenshot](https://github.com/KevLuck/weather-app/assets/116979866/69f5068a-31af-4957-b51c-005d0862046a)
+![screenshot](https://github.com/KevLuck/weather-app/assets/116979866/d5266e37-81d5-47cf-b01c-fb4528f8accf)
