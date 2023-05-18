@@ -1,0 +1,22 @@
+
+.row {
+    color: rgb(17, 85, 243);
+}
+
+.weather-item {
+    border: 1.5px solid black;
+    width: max-content;
+    margin-top: 20px;
+
+}
+.weather-item1 {
+    border: 1.5px solid black;
+    margin-top: 20px;
+    height: 200px;
+
+}
+.text-primary{
+    font-weight: bold;
+    margin-top: 10px;
+    
+}
