@@ -8,6 +8,12 @@
  * HTML
  * CSS
 
+# GitHub Repository Link
+https://github.com/KevLuck/weather-app
+
+# Website 
+https://kevluck.github.io/weather-app/
+
 # Screenshot
 
 ![screenshot](https://github.com/KevLuck/weather-app/assets/116979866/d5266e37-81d5-47cf-b01c-fb4528f8accf)
